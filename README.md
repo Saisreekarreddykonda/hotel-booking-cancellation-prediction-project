@@ -207,11 +207,11 @@ notebooks/Hotel_bookings.ipynb
 
 ## 💼 Contact
 
-Varshini Chilakala
+Konda Sai Sreekar Reddy
 
-📧 Email: [varshini.chilakala27@gmail.com](mailto:varshini.chilakala27@gmail.com)
+📧 Email: [kondasai2011@gmail.com](mailto:kondasai2011@gmail.com)
 
-🐙 GitHub: [@Varshini-Chilakala](https://github.com/Varshini-Chilakala)
+🐙 GitHub: [@Saisreekarreddykonda]([https://github.com/Saisreekarreddykonda])
 
 
 ---
